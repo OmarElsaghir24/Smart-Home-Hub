@@ -17,8 +17,8 @@ uint16_t dataReceived[32]; // this must match dataToSend in the TX
 bool newData = false;
 
 // Replace the next variables with your SSID/Password combination
-const char* ssid = "ATTitU9up4";
-const char* password = "cquxa3#bae9v";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 
 // Add your MQTT Broker address, example:
 const char* mqtt_server = "broker.hivemq.com";
