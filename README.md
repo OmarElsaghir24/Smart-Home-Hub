@@ -40,7 +40,9 @@ Implemented a modular IoT smart home system using a TM4C123GH6PM microcntroller 
 * `Wi-fi and MQTT Gateway`: utilizes ESP32 as a Wi-fi gateway for connecting to a local Wi-fi network and publish data to an MQTT Broker (HiveMQ).
 * `Mobile Data Visualization (iOS/Android)`: The data can be visualized remotely using mobile or web-based MQTT dashboards such as IoT MQTT Panel. The following picture represents data being visualized using the IoT MQTT Panel mobile application on an Iphone.
 
-![IoT MQTT Panel ](https://github.com/user-attachments/assets/eb1b02e7-81f8-4447-8138-1e1d1948a48f)
+<p align="center">
+  <img src="Images/IoT MQTT Panel.jpg" width="45%" />
+</p>
 
 # MQTT Topics
 * `home/temperature`: topic for measured temperature.
