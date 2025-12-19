@@ -6,8 +6,8 @@ Implemented a modular IoT smart home system using a TM4C123GH6PM microcntroller 
 ![ESP32 Wi-fi Gateway](https://github.com/user-attachments/assets/759efc5a-7d8d-427a-9a46-7602fc6b9371)
 
 <p align="center">
-  <img src="Images/TM4C123 Wireless Node.jpg" width="45%" />
-  <img src="images/ESP32 Wi-fi Gateway.jpg" width="45%" />
+  <img src="Images/TM4C123 Wireless Node.jpeg" width="45%" />
+  <img src="images/ESP32 Wi-fi Gateway.jpeg" width="45%" />
 </p>
 
 
