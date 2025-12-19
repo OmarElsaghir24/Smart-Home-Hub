@@ -1,15 +1,10 @@
 # Smart-Home-Hub
 Implemented a modular IoT smart home system using a TM4C123GH6PM microcntroller as a wireless sensor node and an ESP32 Wi-Fi gateway to monitor environmental and security data and publish it to the cloud via MQTT.
 
-![TM4C123 Wireless Node](https://github.com/user-attachments/assets/6a48d871-f8a5-4699-a175-d1d21b4ea242)
-
-![ESP32 Wi-fi Gateway](https://github.com/user-attachments/assets/759efc5a-7d8d-427a-9a46-7602fc6b9371)
-
 <p align="center">
   <img src="Images/TM4C123 Wireless Node.jpeg" width="45%" />
-  <img src="images/ESP32 Wi-fi Gateway.jpeg" width="45%" />
+  <img src="Images/ESP32 Wi-fi Gateway.jpeg" width="45%" />
 </p>
-
 
 # Parts
 |                                |
