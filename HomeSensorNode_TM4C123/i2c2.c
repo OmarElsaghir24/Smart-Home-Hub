@@ -1,5 +1,4 @@
-// I2C0 Library - Modified for I2C1
-// Jason Losh
+// I2C2 Library 
 
 //-----------------------------------------------------------------------------
 // Hardware Target
@@ -10,7 +9,7 @@
 // System Clock:    40 MHz
 
 // Hardware configuration:
-// I2C devices on I2C bus 1 with 2kohm pullups on SDA and SCL
+// I2C devices on I2C bus 2 with 2kohm pullups on SDA and SCL
 
 //-----------------------------------------------------------------------------
 // Device includes, defines, and assembler directives
