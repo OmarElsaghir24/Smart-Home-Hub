@@ -1,5 +1,4 @@
 // Keyboard Library
-// Jason Losh
 
 // Hook in debounceIsr to TIMER1A IVT entry
 // Hook in keyPressIsr to GPIOA and GPIOE IVT entries
